@@ -6,5 +6,7 @@ This file belongs to Ramaprasad Hosaballi.  This file is has been updated in a b
 Merge these changes into the branch.
 # Edits being done on a branch readme-newedits
 These changes are being done on the new branch not so recently.
+=======
+These changes are being done on the new branch created recently.
 # Additional edits on the edit branch
 More edits done on the edit branch.
