@@ -15,3 +15,7 @@ More edits done on the edit branch.
 These edits are done on my laptop
 Need to merge them in to the main branch.
 
+# Additional changes done on the laptop.
+These additional changes are done on the laptop.
+
+
